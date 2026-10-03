@@ -1,16 +1,19 @@
-## Hi there 👋
+# Leo
 
-<!--
-**ByLeoW/ByLeoW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building [ApiWells](https://github.com/apiwells) — developer tools for understanding AI model APIs and evaluating production workloads across models.
 
-Here are some ideas to get you started:
+### Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Endpoint Doctor** — local-first diagnostics for OpenAI-compatible model API endpoints.
+- **Workload Evaluation** — evidence-driven evaluation for model migration and production workloads.
+- Exploring model intelligence and assurance, starting with leading Chinese AI models.
+
+### Working with
+
+Python · APIs · AI infrastructure · model evaluation · reliability
+
+### Current project
+
+**[ApiWells](https://github.com/apiwells/apiwells)**  
+Diagnose AI model API endpoints before production deployment.
+
